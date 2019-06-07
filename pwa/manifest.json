@@ -1,7 +1,7 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
-  "description": "A personal blog by engineer",
+  "name": "AprilWu Blog",
+  "short_name": "AprilWu Blog",
+  "description": "Song Writer，Audio-Visual Preference,Video Express and Motion Graphic",
   "icons": [{
     "src": "icons/pwa_icon_128.png",
     "sizes": "128x128",
@@ -11,7 +11,7 @@
     "sizes": "512x512",
     "type": "image/png"
   }],
-  "background_color": "#fff",
+  "background_color": "#69667B",
   "theme_color": "#000",
   "start_url": "/",
   "display": "standalone",
