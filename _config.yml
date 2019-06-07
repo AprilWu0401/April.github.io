@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: qiqinwu@yahoo.com
 description: "Learn and Share"
 keyword: "AprilWu, AprilWu Blog, April的博客, wuqiqin, Song Writer, VJ, Video, Motion Graphics, Music"
-url: "https://aprilwu0401.github.io/April.github.io/"          # your host, for absolute URL
+url: "https://aprilwu.top/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
